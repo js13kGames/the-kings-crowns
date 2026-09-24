@@ -1,4 +1,8 @@
 ---
+genres:
+  - puzzle
+  - strategy
+  - tabletop
 post: https://thekingscrowns-blog.glitch.me
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
